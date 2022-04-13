@@ -1,4 +1,4 @@
-# My-restaurant
+# My-restaurants
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaa
