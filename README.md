@@ -1,4 +1,2 @@
 # My-restaurant
-ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-sssssssssssssssssssssssssssssssssssssssssssssssssssss
-sssssssssssssssssssssssss
+new  wireframe
